@@ -1,0 +1,3504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-08-06">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="level" title="level" type="integer"></attribute>
+      <attribute id="freq" title="freq" type="integer"></attribute>
+      <attribute id="colored" title="colored" type="integer"></attribute>
+      <attribute id="suspicious" title="suspicious" type="integer"></attribute>
+      <attribute id="dist" title="dist" type="string"></attribute>
+      <attribute id="distDetail" title="distDetail" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="76" label="/dblp/proceedings[(child::url) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="21268"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:21259:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.030061"></viz:size>
+        <viz:position x="-40.61513" y="402.64423" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="186" label="/dblp/proceedings[(child::booktitle) and (child::series)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10941"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10940:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.002316"></viz:size>
+        <viz:position x="-67.771454" y="590.65594" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="252" label="/dblp/*[(child::ee) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1010255"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="OneMore"></attvalue>
+          <attvalue for="distDetail" value="1:1010253:1"></attvalue>
+        </attvalues>
+        <viz:size value="7.687109"></viz:size>
+        <viz:position x="-120.209015" y="386.42175" z="0.0"></viz:position>
+        <viz:color r="215" g="65" b="44"></viz:color>
+      </node>
+      <node id="89" label="/dblp/incollection[(child::booktitle)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="25628"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25628:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417743"></viz:size>
+        <viz:position x="-62.994415" y="270.89706" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="63" label="/dblp/*[(child::url)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="2422134"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="ZeroOrOne"></attvalue>
+          <attvalue for="distDetail" value="19142:2402983:9"></attvalue>
+        </attvalues>
+        <viz:size value="11.480313"></viz:size>
+        <viz:position x="-71.324135" y="180.1442" z="0.0"></viz:position>
+        <viz:color r="40" g="200" b="210"></viz:color>
+      </node>
+      <node id="102" label="/dblp/article[(child::ee) and (child::journal)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1005581"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1005580:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.674551"></viz:size>
+        <viz:position x="-199.79187" y="559.95593" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="207" label="/dblp/proceedings[(child::isbn) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="17818"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17810:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.020792"></viz:size>
+        <viz:position x="-321.42786" y="500.15152" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="235" label="/dblp/inproceedings[(child::*)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="1317521"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317521:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512621"></viz:size>
+        <viz:position x="-175.31024" y="82.494736" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="5" label="/dblp/article[(child::*)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="1033836"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="6:1033830:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7504625"></viz:size>
+        <viz:position x="-184.2672" y="-59.872044" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="2" label="/dblp/book">
+        <attvalues>
+          <attvalue for="level" value="100"></attvalue>
+          <attvalue for="freq" value="10090"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10090:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0000296"></viz:size>
+        <viz:position x="-130.77026" y="42.489838" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="41" label="/dblp/proceedings[(child::title)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="21357"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:21348:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0302997"></viz:size>
+        <viz:position x="-176.0566" y="215.30814" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="205" label="/dblp/proceedings[(child::isbn) and (child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="17670"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17662:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0203943"></viz:size>
+        <viz:position x="-426.35727" y="414.35117" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="123" label="/dblp/article[(child::journal) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1033058"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033057:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748372"></viz:size>
+        <viz:position x="-509.12625" y="307.01443" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="220" label="/dblp/proceedings[(child::publisher) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10614"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10613:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.001437"></viz:size>
+        <viz:position x="-565.4328" y="183.72026" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="51" label="/dblp/*[(child::ee)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="2195894"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="OneMore"></attvalue>
+          <attvalue for="distDetail" value="1:2195889:4"></attvalue>
+        </attvalues>
+        <viz:size value="10.872489"></viz:size>
+        <viz:position x="-93.339775" y="-169.78442" z="0.0"></viz:position>
+        <viz:color r="215" g="65" b="44"></viz:color>
+      </node>
+      <node id="43" label="/dblp/proceedings[(child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="10776"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10775:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0018725"></viz:size>
+        <viz:position x="-252.9914" y="115.5373" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="247" label="/dblp/article[(child::*) and (child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="931768"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:931768:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.476243"></viz:size>
+        <viz:position x="-194.95969" y="354.63037" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="109" label="/dblp/article[(child::ee) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1005790"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1005789:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.6751127"></viz:size>
+        <viz:position x="-592.35034" y="50.877018" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="646" label="/dblp/inproceedings[(child::booktitle) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1317521"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317521:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512621"></viz:size>
+        <viz:position x="-261.85547" y="308.55096" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="480" label="/dblp/inproceedings[(child::booktitle) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1317512"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317512:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512596"></viz:size>
+        <viz:position x="-588.4798" y="-84.61062" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="155" label="/dblp/article[(child::title) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1033132"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033131:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748571"></viz:size>
+        <viz:position x="-554.0223" y="-215.70052" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="83" label="/dblp/incollection[(child::author)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="19746"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:19746:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.025972"></viz:size>
+        <viz:position x="-278.01157" y="-7.9421515" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="354" label="/dblp/incollection[(child::ee) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="23581"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:23581:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.036275"></viz:size>
+        <viz:position x="-490.76883" y="-335.57913" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="473" label="/dblp/inproceedings[(child::booktitle) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1317521"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317521:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512621"></viz:size>
+        <viz:position x="-402.0071" y="-438.01562" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="312" label="/dblp/*[(child::publisher) and (child::series)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="14426"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:14425:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0116787"></viz:size>
+        <viz:position x="-318.2011" y="250.04007" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="310" label="/dblp/*[(child::isbn) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="19652"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:19644:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.025719"></viz:size>
+        <viz:position x="-361.72644" y="181.45508" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="154" label="/dblp/article[(child::title) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1033281"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033280:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748971"></viz:size>
+        <viz:position x="-292.3506" y="-517.6857" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="108" label="/dblp/article[(child::ee) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1005804"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1005803:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.675151"></viz:size>
+        <viz:position x="-167.49881" y="-570.44855" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="236" label="/dblp/book[(child::*)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="10090"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10090:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0000296"></viz:size>
+        <viz:position x="48.183666" y="-187.663" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="45" label="/dblp/*[(child::booktitle)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="1364916"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1364907:9"></attvalue>
+        </attvalues>
+        <viz:size value="8.639954"></viz:size>
+        <viz:position x="163.58853" y="-103.816444" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="316" label="/dblp/*[(child::series) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="14607"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:14606:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.012165"></viz:size>
+        <viz:position x="-390.6779" y="105.559296" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="196" label="/dblp/proceedings[(child::editor) and (child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="16598"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:16592:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.017514"></viz:size>
+        <viz:position x="-33.941082" y="-593.56165" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="119" label="/dblp/article[(child::journal) and (child::number)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="915683"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915682:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.433028"></viz:size>
+        <viz:position x="101.380775" y="-585.82367" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="256" label="/dblp/*[(child::journal) and (child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="931547"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:931547:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.475649"></viz:size>
+        <viz:position x="-403.88895" y="25.410538" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="449" label="/dblp/incollection[(child::booktitle) and (child::ee)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="23581"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:23581:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.036275"></viz:size>
+        <viz:position x="231.43324" y="-547.6368" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="654" label="/dblp/incollection[(child::booktitle) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="25628"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25628:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417743"></viz:size>
+        <viz:position x="-400.82736" y="-55.76201" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="52" label="/dblp/article[(child::journal) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1033608"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033607:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.74985"></viz:size>
+        <viz:position x="-381.6165" y="-134.68791" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="301" label="/dblp/*[(child::editor) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="17617"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17611:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0202518"></viz:size>
+        <viz:position x="-347.0303" y="-208.18726" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="219" label="/dblp/proceedings[(child::publisher) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="20645"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20636:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.028387"></viz:size>
+        <viz:position x="349.4567" y="-480.98587" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="106" label="/dblp/article[(child::ee) and (child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="908776"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:908776:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4144716"></viz:size>
+        <viz:position x="449.31674" y="-389.33517" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="24" label="/dblp/www">
+        <attvalues>
+          <attvalue for="level" value="100"></attvalue>
+          <attvalue for="freq" value="1316832"></attvalue>
+          <attvalue for="colored" value="1"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="1316815:17:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.51077"></viz:size>
+        <viz:position x="80.82047" y="-111.23984" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="68" label="/dblp/proceedings[(child::booktitle) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="20892"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20883:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.029051"></viz:size>
+        <viz:position x="-298.46234" y="-273.29874" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="50" label="/dblp/article[(child::ee) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1005804"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1005803:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.675151"></viz:size>
+        <viz:position x="-237.86934" y="-327.39908" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="240" label="/dblp/*[(child::ee) and (child::journal)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1005582"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1005581:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.674554"></viz:size>
+        <viz:position x="-167.69261" y="-368.3085" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="49" label="/dblp/*[(child::editor)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="17708"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17702:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0204964"></viz:size>
+        <viz:position x="190.31816" y="36.30513" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="75" label="/dblp/proceedings[(child::title) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="21357"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:21348:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0302997"></viz:size>
+        <viz:position x="-90.759575" y="-394.37885" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="65" label="/dblp/*[(child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="1045675"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="OneMore"></attvalue>
+          <attvalue for="distDetail" value="1:1045673:1"></attvalue>
+        </attvalues>
+        <viz:size value="7.7822695"></viz:size>
+        <viz:position x="113.88339" y="156.74704" z="0.0"></viz:position>
+        <viz:color r="215" g="65" b="44"></viz:color>
+      </node>
+      <node id="73" label="/dblp/proceedings[(child::series) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="11024"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:11023:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0025387"></viz:size>
+        <viz:position x="-10.169835" y="-404.5597" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="614" label="/dblp/incollection[(child::ee) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="23581"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:23581:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.036275"></viz:size>
+        <viz:position x="70.82964" y="-398.4409" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="627" label="/dblp/inproceedings[(child::*) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1317521"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317521:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512621"></viz:size>
+        <viz:position x="148.9754" y="-376.26892" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="61" label="/dblp/*[(child::title)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="3731987"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="ZeroOrOne"></attvalue>
+          <attvalue for="distDetail" value="1316602:2415376:9"></attvalue>
+        </attvalues>
+        <viz:size value="14.999412"></viz:size>
+        <viz:position x="-24.283314" y="192.22223" z="0.0"></viz:position>
+        <viz:color r="40" g="200" b="210"></viz:color>
+      </node>
+      <node id="74" label="/dblp/*[(child::series)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="14607"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:14606:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.012165"></viz:size>
+        <viz:position x="-149.28694" y="123.5009" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="18" label="/dblp/article[(child::number)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="915685"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915684:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4330335"></viz:size>
+        <viz:position x="-245.98291" y="-129.79185" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="32" label="/dblp/proceedings[(child::editor)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="17022"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17016:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0186534"></viz:size>
+        <viz:position x="-163.47777" y="-225.00786" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="356" label="/dblp/inproceedings[(child::ee) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1152203"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1152203:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.068471"></viz:size>
+        <viz:position x="525.823" y="-277.4483" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="325" label="/dblp/www[(child::author) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1316569"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="1316562:7:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.510063"></viz:size>
+        <viz:position x="574.999" y="-151.14075" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="116" label="/dblp/incollection[(child::ee)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="23581"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:23581:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.036275"></viz:size>
+        <viz:position x="-47.426483" y="-274.05154" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="265" label="/dblp/*[(child::number) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="915226"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915225:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4318004"></viz:size>
+        <viz:position x="221.11896" y="-338.93713" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="222" label="/dblp/proceedings[(child::series) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="11013"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:11012:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.002509"></viz:size>
+        <viz:position x="594.2888" y="-16.977465" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="3" label="/dblp/proceedings">
+        <attvalues>
+          <attvalue for="level" value="100"></attvalue>
+          <attvalue for="freq" value="21357"></attvalue>
+          <attvalue for="colored" value="1"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:21348:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0302997"></viz:size>
+        <viz:position x="1.6422177E-13" y="137.5" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="162" label="/dblp/article[(child::url) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1032594"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1032593:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7471256"></viz:size>
+        <viz:position x="582.6897" y="118.06824" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="314" label="/dblp/*[(child::publisher) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="22399"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:22390:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.033099"></viz:size>
+        <viz:position x="284.35367" y="-287.9496" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="628" label="/dblp/book[(child::*) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="10090"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10090:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0000296"></viz:size>
+        <viz:position x="336.13177" y="-225.3606" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="39" label="/dblp/proceedings[(child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="20731"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20722:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.028618"></viz:size>
+        <viz:position x="78.356865" y="-266.85898" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="631" label="/dblp/incollection[(child::*) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="25628"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25628:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417743"></viz:size>
+        <viz:position x="374.3672" y="-153.69185" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="69" label="/dblp/proceedings[(child::editor) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="17022"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17016:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0186534"></viz:size>
+        <viz:position x="397.51938" y="-75.83088" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="419" label="/dblp/inproceedings[(child::title) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1317512"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317512:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512596"></viz:size>
+        <viz:position x="540.8046" y="246.9772" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="275" label="/dblp/*[(child::booktitle) and (child::editor)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="17021"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17015:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0186505"></viz:size>
+        <viz:position x="404.65555" y="5.085319" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="163" label="/dblp/www[(child::url)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="19158"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="19141:17:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.024392"></viz:size>
+        <viz:position x="188.06114" y="-204.90613" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="198" label="/dblp/proceedings[(child::editor) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="17022"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17016:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0186534"></viz:size>
+        <viz:position x="470.81064" y="363.04926" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="22" label="/dblp/article[(child::url)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1033281"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033280:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748971"></viz:size>
+        <viz:position x="259.17468" y="-100.90589" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="44" label="/dblp/*[(child::author)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="3696416"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="Any"></attvalue>
+          <attvalue for="distDetail" value="1316562:2379854:0"></attvalue>
+        </attvalues>
+        <viz:size value="14.903845"></viz:size>
+        <viz:position x="-193.36768" y="-12.165663" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="71" label="/dblp/*[(child::isbn)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="29850"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:29842:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0531173"></viz:size>
+        <viz:position x="-132.631" y="-141.23767" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="218" label="/dblp/proceedings[(child::publisher) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="20731"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20722:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.028618"></viz:size>
+        <viz:position x="376.34567" y="460.25137" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="484" label="/dblp/incollection[(child::booktitle) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="25625"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25625:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417666"></viz:size>
+        <viz:position x="262.31973" y="533.53143" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="95" label="/dblp/incollection[(child::crossref)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="24395"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:24395:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0384617"></viz:size>
+        <viz:position x="277.10477" y="23.800549" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="250" label="/dblp/*[(child::ee) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="2195894"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="OneMore"></attvalue>
+          <attvalue for="distDetail" value="1:2195889:4"></attvalue>
+        </attvalues>
+        <viz:size value="10.872489"></viz:size>
+        <viz:position x="395.4882" y="85.79663" z="0.0"></viz:position>
+        <viz:color r="215" g="65" b="44"></viz:color>
+      </node>
+      <node id="21" label="/dblp/article[(child::title)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1033836"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="6:1033830:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7504625"></viz:size>
+        <viz:position x="238.17207" y="143.62305" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="141" label="/dblp/article[(child::number) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="915217"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915216:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.431776"></viz:size>
+        <viz:position x="134.65941" y="579.0805" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="200" label="/dblp/proceedings[(child::editor) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10661"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10661:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0015635"></viz:size>
+        <viz:position x="-1.9301765E-12" y="594.53125" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="270" label="/dblp/www[(child::url) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="19158"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="19141:17:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.024392"></viz:size>
+        <viz:position x="370.38666" y="163.0512" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="289" label="/dblp/*[(child::booktitle) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1364916"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1364907:9"></attvalue>
+        </attvalues>
+        <viz:size value="8.639954"></viz:size>
+        <viz:position x="330.3623" y="233.73645" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="290" label="/dblp/*[(child::booktitle) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1364822"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1364813:9"></attvalue>
+        </attvalues>
+        <viz:size value="8.639702"></viz:size>
+        <viz:position x="277.02765" y="295.0045" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="692" label="/dblp/inproceedings[(child::author) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1315364"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1315364:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.506825"></viz:size>
+        <viz:position x="212.5316" y="344.38684" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="445" label="/dblp/inproceedings[(child::booktitle) and (child::ee)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1152208"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1152208:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.068485"></viz:size>
+        <viz:position x="-134.65941" y="579.0805" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="77" label="/dblp/proceedings[(child::volume) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="10776"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10775:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0018725"></viz:size>
+        <viz:position x="139.47269" y="379.89386" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="19" label="/dblp/article[(child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="931768"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:931768:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.476243"></viz:size>
+        <viz:position x="150.36572" y="233.97363" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="137" label="/dblp/article[(child::number) and (child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="885084"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:885084:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.3508196"></viz:size>
+        <viz:position x="-262.31973" y="533.53143" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="264" label="/dblp/*[(child::number) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="916066"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:916065:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.434057"></viz:size>
+        <viz:position x="60.79442" y="400.095" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="161" label="/dblp/incollection[(child::title)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="25628"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25628:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417743"></viz:size>
+        <viz:position x="31.703861" y="276.3121" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="683" label="/dblp/article[(child::author) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1027850"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1027850:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.73438"></viz:size>
+        <viz:position x="-376.34567" y="460.25137" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="29" label="/dblp/proceedings[(child::booktitle)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="20892"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20883:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.029051"></viz:size>
+        <viz:position x="-93.46374" y="261.95047" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="632" label="/dblp/inproceedings[(child::*) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1317512"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317512:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512596"></viz:size>
+        <viz:position x="-20.333248" y="404.17636" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="268" label="/dblp/www[(child::title) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1316613"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="1316596:17:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.510181"></viz:size>
+        <viz:position x="-100.641685" y="391.9735" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="168" label="/dblp/incollection[(child::url)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="25625"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25625:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417666"></viz:size>
+        <viz:position x="-199.45229" y="193.83575" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="7" label="/dblp/proceedings[(child::*)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="21357"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:21348:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0302997"></viz:size>
+        <viz:position x="-8.304636E-14" y="-193.75" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="302" label="/dblp/*[(child::editor) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="11056"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:11056:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.002625"></viz:size>
+        <viz:position x="-176.8953" y="363.97806" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="140" label="/dblp/article[(child::number) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="915674"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915673:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4330044"></viz:size>
+        <viz:position x="-470.81064" y="363.04926" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="56" label="/dblp/article[(child::number) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="915685"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915684:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4330335"></viz:size>
+        <viz:position x="-246.02179" y="321.318" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="187" label="/dblp/proceedings[(child::booktitle) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="20892"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20883:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.029051"></viz:size>
+        <viz:position x="-540.8046" y="246.9772" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="23" label="/dblp/article[(child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1033132"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033131:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748571"></viz:size>
+        <viz:position x="-264.5126" y="85.94535" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="6" label="/dblp/*">
+        <attvalues>
+          <attvalue for="level" value="99"></attvalue>
+          <attvalue for="freq" value="3732206"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="ZeroOrOne"></attvalue>
+          <attvalue for="distDetail" value="1316821:2415376:9"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-95.10565" y="30.9017" z="0.0"></viz:position>
+        <viz:color r="40" g="200" b="210"></viz:color>
+      </node>
+      <node id="14" label="/dblp/article[(child::ee)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1005804"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1005803:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.675151"></viz:size>
+        <viz:position x="-275.2941" y="-39.581314" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="636" label="/dblp/incollection[(child::*) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="25625"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25625:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417666"></viz:size>
+        <viz:position x="-305.2361" y="265.71204" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="91" label="/dblp/inproceedings[(child::crossref)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1235180"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1235180:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.291401"></viz:size>
+        <viz:position x="-229.58437" y="-156.98576" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="276" label="/dblp/*[(child::booktitle) and (child::ee)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1183523"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1183519:4"></attvalue>
+        </attvalues>
+        <viz:size value="8.1526165"></viz:size>
+        <viz:position x="-352.1525" y="199.40059" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="261" label="/dblp/*[(child::number) and (child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="885467"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:885467:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.3518486"></viz:size>
+        <viz:position x="-384.88068" y="125.05531" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="58" label="/dblp/*[(child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="2222962"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:2222962:0"></attvalue>
+        </attvalues>
+        <viz:size value="10.945211"></viz:size>
+        <viz:position x="132.631" y="-141.23767" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="682" label="/dblp/incollection[(child::author) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="19746"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:19746:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.025972"></viz:size>
+        <viz:position x="-582.6897" y="118.06824" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="60" label="/dblp/article[(child::title) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1033836"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="6:1033830:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7504625"></viz:size>
+        <viz:position x="-402.10208" y="45.67157" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="199" label="/dblp/proceedings[(child::editor) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="16973"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:16967:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.018522"></viz:size>
+        <viz:position x="-594.2888" y="-16.977465" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="64" label="/dblp/article[(child::volume) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1033132"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033131:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748571"></viz:size>
+        <viz:position x="-403.12283" y="-35.55228" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="48" label="/dblp/*[(child::crossref)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="1261154"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="231:1260923:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.361183"></viz:size>
+        <viz:position x="193.36768" y="-12.165663" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="53" label="/dblp/*[(child::journal)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="1033613"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033612:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.749863"></viz:size>
+        <viz:position x="149.28694" y="123.5009" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="124" label="/dblp/article[(child::journal) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1033130"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033129:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7485657"></viz:size>
+        <viz:position x="-574.999" y="-151.14075" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="259" label="/dblp/*[(child::journal) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1033063"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033062:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7483854"></viz:size>
+        <viz:position x="-387.9018" y="-115.343735" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="690" label="/dblp/article[(child::author) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1028388"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1028388:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7358255"></viz:size>
+        <viz:position x="-357.05222" y="-190.48799" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="0" label="/dblp/article">
+        <attvalues>
+          <attvalue for="level" value="100"></attvalue>
+          <attvalue for="freq" value="1033836"></attvalue>
+          <attvalue for="colored" value="1"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="6:1033830:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7504625"></viz:size>
+        <viz:position x="-80.82047" y="-111.23984" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="232" label="/dblp/proceedings[(child::title) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10776"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10775:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0018725"></viz:size>
+        <viz:position x="-525.823" y="-277.4483" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="234" label="/dblp/www[(child::author) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1316569"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="1316562:7:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.510063"></viz:size>
+        <viz:position x="-311.81708" y="-257.95752" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="361" label="/dblp/incollection[(child::ee) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="23581"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:23581:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.036275"></viz:size>
+        <viz:position x="-449.31674" y="-389.33517" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="62" label="/dblp/article[(child::url) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1033281"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033280:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748971"></viz:size>
+        <viz:position x="-254.01884" y="-315.03397" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="313" label="/dblp/*[(child::publisher) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="31137"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:31128:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0565753"></viz:size>
+        <viz:position x="-185.98622" y="-359.41772" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="79" label="/dblp/inproceedings[(child::author)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1315364"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1315364:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.506825"></viz:size>
+        <viz:position x="-136.76321" y="-242.17625" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="317" label="/dblp/*[(child::series) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="12344"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:12343:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0060854"></viz:size>
+        <viz:position x="-110.460236" y="-389.3206" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="157" label="/dblp/inproceedings[(child::title)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1317521"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317521:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512621"></viz:size>
+        <viz:position x="-15.877826" y="-277.67142" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="606" label="/dblp/inproceedings[(child::ee) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1152208"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1152208:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.068485"></viz:size>
+        <viz:position x="-30.483816" y="-403.53775" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="423" label="/dblp/incollection[(child::title) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="25625"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25625:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417666"></viz:size>
+        <viz:position x="-349.4567" y="-480.98587" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="239" label="/dblp/incollection[(child::*)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="25628"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25628:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417743"></viz:size>
+        <viz:position x="24.283314" y="192.22223" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="684" label="/dblp/inproceedings[(child::author) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1315355"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1315355:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.506802"></viz:size>
+        <viz:position x="-231.43324" y="-547.6368" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="42" label="/dblp/proceedings[(child::url)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="21268"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:21259:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.030061"></viz:size>
+        <viz:position x="108.26575" y="-256.18753" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="676" label="/dblp/article[(child::author) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1028388"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1028388:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7358255"></viz:size>
+        <viz:position x="-101.380775" y="-585.82367" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="188" label="/dblp/proceedings[(child::booktitle) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="20813"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20804:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.028838"></viz:size>
+        <viz:position x="33.941082" y="-593.56165" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="72" label="/dblp/proceedings[(child::publisher) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="20731"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20722:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.028618"></viz:size>
+        <viz:position x="50.720795" y="-401.49643" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="156" label="/dblp/www[(child::title)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1316613"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="1316596:17:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.510181"></viz:size>
+        <viz:position x="210.19286" y="-182.13315" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="551" label="/dblp/book[(child::publisher) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10079"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10079:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="167.49881" y="-570.44855" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="309" label="/dblp/*[(child::isbn) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="29850"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:29842:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0531173"></viz:size>
+        <viz:position x="129.88187" y="-383.27884" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="57" label="/dblp/*[(child::number)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="916081"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:916080:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4340973"></viz:size>
+        <viz:position x="-113.88339" y="156.74704" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="164" label="/dblp/inproceedings[(child::url)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1317512"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317512:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512596"></viz:size>
+        <viz:position x="268.98773" y="-70.704475" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="223" label="/dblp/proceedings[(child::series) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10743"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10742:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.001784"></viz:size>
+        <viz:position x="292.3506" y="-517.6857" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="298" label="/dblp/*[(child::editor) and (child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="17261"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17255:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.019295"></viz:size>
+        <viz:position x="203.81001" y="-349.61902" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="66" label="/dblp/www[(child::*)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="1316832"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="1316815:17:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.51077"></viz:size>
+        <viz:position x="-190.31816" y="36.30513" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="269" label="/dblp/*[(child::url) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1044210"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="OneMore"></attvalue>
+          <attvalue for="distDetail" value="1:1044208:1"></attvalue>
+        </attvalues>
+        <viz:size value="7.7783337"></viz:size>
+        <viz:position x="269.52667" y="-301.87305" z="0.0"></viz:position>
+        <viz:color r="215" g="65" b="44"></viz:color>
+      </node>
+      <node id="267" label="/dblp/*[(child::title) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1045675"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="OneMore"></attvalue>
+          <attvalue for="distDetail" value="1:1045673:1"></attvalue>
+        </attvalues>
+        <viz:size value="7.7822695"></viz:size>
+        <viz:position x="324.38412" y="-241.96468" z="0.0"></viz:position>
+        <viz:color r="215" g="65" b="44"></viz:color>
+      </node>
+      <node id="299" label="/dblp/*[(child::editor) and (child::series)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="11353"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:11353:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0034227"></viz:size>
+        <viz:position x="366.1722" y="-172.30756" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="263" label="/dblp/*[(child::number) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="916081"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:916080:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4340973"></viz:size>
+        <viz:position x="393.2072" y="-95.70819" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="255" label="/dblp/*[(child::journal) and (child::number)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="915687"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915686:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4330387"></viz:size>
+        <viz:position x="404.39996" y="-15.252746" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="34" label="/dblp/proceedings[(child::isbn)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="17818"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17810:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.020792"></viz:size>
+        <viz:position x="272.58545" y="55.232975" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="85" label="/dblp/inproceedings[(child::booktitle)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1317521"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317521:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512621"></viz:size>
+        <viz:position x="220.24782" y="169.83644" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="197" label="/dblp/proceedings[(child::editor) and (child::series)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10906"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10906:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.002222"></viz:size>
+        <viz:position x="402.0071" y="-438.01562" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="260" label="/dblp/*[(child::journal) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1033135"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033134:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.748579"></viz:size>
+        <viz:position x="399.29947" y="65.81723" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="251" label="/dblp/*[(child::ee) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="2193485"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="OneMore"></attvalue>
+          <attvalue for="distDetail" value="1:2193480:4"></attvalue>
+        </attvalues>
+        <viz:size value="10.866016"></viz:size>
+        <viz:position x="378.11124" y="144.23543" z="0.0"></viz:position>
+        <viz:color r="215" g="65" b="44"></viz:color>
+      </node>
+      <node id="602" label="/dblp/*[(child::author) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="3696416"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="Any"></attvalue>
+          <attvalue for="distDetail" value="1316562:2379854:0"></attvalue>
+        </attvalues>
+        <viz:size value="14.903845"></viz:size>
+        <viz:position x="341.68896" y="216.8424" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="326" label="/dblp/www[(child::author) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="19126"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="19119:7:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.024306"></viz:size>
+        <viz:position x="490.76883" y="-335.57913" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="180" label="/dblp/proceedings[(child::booktitle) and (child::isbn)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="17499"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17491:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0199347"></viz:size>
+        <viz:position x="554.0223" y="-215.70052" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="120" label="/dblp/article[(child::journal) and (child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="931547"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:931547:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.475649"></viz:size>
+        <viz:position x="588.4798" y="-84.61062" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="105" label="/dblp/article[(child::ee) and (child::number)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="893290"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:893289:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.3728666"></viz:size>
+        <viz:position x="592.35034" y="50.877018" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="315" label="/dblp/*[(child::publisher) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="12594"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:12593:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.006757"></viz:size>
+        <viz:position x="291.50006" y="280.71283" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="112" label="/dblp/inproceedings[(child::ee)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1152208"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1152208:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.068485"></viz:size>
+        <viz:position x="122.71462" y="249.58894" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="59" label="/dblp/*[(child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="101"></attvalue>
+          <attvalue for="freq" value="31137"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:31128:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0565753"></viz:size>
+        <viz:position x="-163.58853" y="-103.816444" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="178" label="/dblp/proceedings[(child::booktitle) and (child::editor)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="16700"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:16694:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0177884"></viz:size>
+        <viz:position x="565.4328" y="183.72026" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="40" label="/dblp/proceedings[(child::series)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="11024"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:11023:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0025387"></viz:size>
+        <viz:position x="-1.8229248E-12" y="278.125" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="191" label="/dblp/proceedings[(child::editor) and (child::isbn)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="15051"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:15045:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.013358"></viz:size>
+        <viz:position x="509.12625" y="307.01443" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="418" label="/dblp/www[(child::title) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="19158"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="19141:17:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.024392"></viz:size>
+        <viz:position x="426.35727" y="414.35117" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="78" label="/dblp/www[(child::author)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1316569"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="Zero"></attvalue>
+          <attvalue for="distDetail" value="1316562:7:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.510063"></viz:size>
+        <viz:position x="-122.71462" y="249.58894" z="0.0"></viz:position>
+        <viz:color r="20" g="106" b="205"></viz:color>
+      </node>
+      <node id="70" label="/dblp/proceedings[(child::isbn) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="17818"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17810:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.020792"></viz:size>
+        <viz:position x="229.56665" y="333.27335" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="603" label="/dblp/*[(child::author) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="2386734"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="Any"></attvalue>
+          <attvalue for="distDetail" value="19119:2367615:0"></attvalue>
+        </attvalues>
+        <viz:size value="11.385206"></viz:size>
+        <viz:position x="158.38403" y="372.4063" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="208" label="/dblp/proceedings[(child::isbn) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="17757"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17749:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.020628"></viz:size>
+        <viz:position x="321.42786" y="500.15152" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="258" label="/dblp/*[(child::journal) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="1033613"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033612:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.749863"></viz:size>
+        <viz:position x="80.82013" y="396.5351" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="189" label="/dblp/proceedings[(child::booktitle) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10691"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10690:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.001644"></viz:size>
+        <viz:position x="199.79187" y="559.95593" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="15" label="/dblp/article[(child::journal)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1033608"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033607:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.74985"></viz:size>
+        <viz:position x="-220.24782" y="169.83644" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="307" label="/dblp/*[(child::isbn) and (child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="27113"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:27105:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.045764"></viz:size>
+        <viz:position x="9.41889E-13" y="404.6875" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="477" label="/dblp/incollection[(child::booktitle) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="25628"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25628:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417743"></viz:size>
+        <viz:position x="67.771454" y="590.65594" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="8" label="/dblp/article[(child::author)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="1028388"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1028388:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.7358255"></viz:size>
+        <viz:position x="-272.58545" y="55.232975" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="288" label="/dblp/*[(child::booktitle) and (child::series)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="11517"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:11516:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0038633"></viz:size>
+        <viz:position x="-80.82013" y="396.5351" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="139" label="/dblp/article[(child::number) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="915685"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:915684:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.4330335"></viz:size>
+        <viz:position x="-67.771454" y="590.65594" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="110" label="/dblp/article[(child::ee) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1005112"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1005111:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.673291"></viz:size>
+        <viz:position x="-199.79187" y="559.95593" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="293" label="/dblp/*[(child::editor) and (child::isbn)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="15705"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:15699:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.015115"></viz:size>
+        <viz:position x="-158.38403" y="372.4063" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="231" label="/dblp/proceedings[(child::title) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="21268"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:21259:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.030061"></viz:size>
+        <viz:position x="-321.42786" y="500.15152" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="217" label="/dblp/proceedings[(child::publisher) and (child::series)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10859"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10858:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0020957"></viz:size>
+        <viz:position x="-426.35727" y="414.35117" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="623" label="/dblp/book[(child::*) and (child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="10079"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10079:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-229.56665" y="333.27335" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="318" label="/dblp/*[(child::series) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="12510"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:12509:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0065312"></viz:size>
+        <viz:position x="-291.50006" y="280.71283" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="300" label="/dblp/*[(child::editor) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="17708"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17702:6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0204964"></viz:size>
+        <viz:position x="-341.68896" y="216.8424" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="185" label="/dblp/proceedings[(child::booktitle) and (child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="20275"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20266:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.027393"></viz:size>
+        <viz:position x="-509.12625" y="307.01443" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="233" label="/dblp/proceedings[(child::url) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="10764"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10763:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.00184"></viz:size>
+        <viz:position x="-565.4328" y="183.72026" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="245" label="/dblp/*[(child::ee) and (child::number)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="893673"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:893672:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.3738956"></viz:size>
+        <viz:position x="-378.11124" y="144.23543" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="221" label="/dblp/proceedings[(child::series) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="11024"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:11023:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0025387"></viz:size>
+        <viz:position x="-592.35034" y="50.877018" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="246" label="/dblp/*[(child::ee) and (child::pages)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="2029439"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:2029439:0"></attvalue>
+        </attvalues>
+        <viz:size value="10.425285"></viz:size>
+        <viz:position x="-399.29947" y="65.81723" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="291" label="/dblp/*[(child::booktitle) and (child::volume)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="10936"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10935:1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0023026"></viz:size>
+        <viz:position x="-404.39996" y="-15.252746" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="150" label="/dblp/book[(child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="10079"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10079:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-268.98773" y="-70.704475" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="287" label="/dblp/*[(child::booktitle) and (child::publisher)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="21006"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:20997:9"></attvalue>
+        </attvalues>
+        <viz:size value="5.029357"></viz:size>
+        <viz:position x="-393.2072" y="-95.70819" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="278" label="/dblp/*[(child::booktitle) and (child::isbn)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="17860"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:17852:8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0209045"></viz:size>
+        <viz:position x="-366.1722" y="-172.30756" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="4" label="/dblp/incollection">
+        <attvalues>
+          <attvalue for="level" value="100"></attvalue>
+          <attvalue for="freq" value="25628"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:25628:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0417743"></viz:size>
+        <viz:position x="130.77026" y="42.489838" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="1" label="/dblp/inproceedings">
+        <attvalues>
+          <attvalue for="level" value="100"></attvalue>
+          <attvalue for="freq" value="1317521"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1317521:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.512621"></viz:size>
+        <viz:position x="-130.77026" y="42.489838" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="689" label="/dblp/incollection[(child::author) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="19743"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:19743:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.025964"></viz:size>
+        <viz:position x="-588.4798" y="-84.61062" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="158" label="/dblp/book[(child::title)]">
+        <attvalues>
+          <attvalue for="level" value="102"></attvalue>
+          <attvalue for="freq" value="10090"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:10090:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0000296"></viz:size>
+        <viz:position x="-210.19286" y="-182.13315" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="122" label="/dblp/article[(child::journal) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1033608"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="1:1033607:0"></attvalue>
+        </attvalues>
+        <viz:size value="7.74985"></viz:size>
+        <viz:position x="-554.0223" y="-215.70052" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="677" label="/dblp/inproceedings[(child::author) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1315364"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1315364:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.506825"></viz:size>
+        <viz:position x="-490.76883" y="-335.57913" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="349" label="/dblp/inproceedings[(child::ee) and (child::title)]">
+        <attvalues>
+          <attvalue for="level" value="104"></attvalue>
+          <attvalue for="freq" value="1152208"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:1152208:0"></attvalue>
+        </attvalues>
+        <viz:size value="8.068485"></viz:size>
+        <viz:position x="-402.0071" y="-438.01562" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+      <node id="266" label="/dblp/*[(child::title) and (child::url)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="2422134"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="1"></attvalue>
+          <attvalue for="dist" value="ZeroOrOne"></attvalue>
+          <attvalue for="distDetail" value="19142:2402983:9"></attvalue>
+        </attvalues>
+        <viz:size value="11.480313"></viz:size>
+        <viz:position x="-324.38412" y="-241.96468" z="0.0"></viz:position>
+        <viz:color r="40" g="200" b="210"></viz:color>
+      </node>
+      <node id="701" label="/dblp/incollection[(child::author) and (child::*)]">
+        <attvalues>
+          <attvalue for="level" value="103"></attvalue>
+          <attvalue for="freq" value="19746"></attvalue>
+          <attvalue for="colored" value="0"></attvalue>
+          <attvalue for="suspicious" value="0"></attvalue>
+          <attvalue for="dist" value="One"></attvalue>
+          <attvalue for="distDetail" value="0:19746:0"></attvalue>
+        </attvalues>
+        <viz:size value="5.025972"></viz:size>
+        <viz:position x="-269.52667" y="-301.87305" z="0.0"></viz:position>
+        <viz:color r="255" g="185" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="76" target="219">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="76" target="222">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="76" target="199">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="76" target="188">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="76" target="208">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="76" target="231">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="76" target="233">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="252" target="110">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="63" target="163">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="63" target="22">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="63" target="168">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="63" target="42">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="63" target="164">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="235" target="91">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="235" target="79">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="235" target="157">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="235" target="164">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="235" target="85">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="235" target="112">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="18">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="22">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="21">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="23">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="14">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="15">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="75">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="116">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="14">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="112">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="43" target="77">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="247" target="106">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="247" target="137">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="247" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="646" target="480">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="646" target="473">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="646" target="445">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="312" target="217">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="310" target="208">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="236" target="150">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="236" target="158">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="89">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="85">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="316" target="221">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="256" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="654" target="449">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="654" target="484">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="654" target="477">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="102">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="123">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="119">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="124">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="120">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="122">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="301" target="199">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="66">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="68" target="186">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="68" target="187">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="68" target="188">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="68" target="180">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="68" target="178">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="68" target="189">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="68" target="185">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="102">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="109">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="108">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="106">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="105">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="110">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="240" target="102">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="32">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="75" target="207">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="75" target="198">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="75" target="218">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="75" target="187">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="75" target="232">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="75" target="231">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="75" target="221">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="65" target="43">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="65" target="23">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="73" target="186">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="73" target="222">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="73" target="223">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="73" target="197">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="73" target="217">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="73" target="221">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="614" target="354">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="614" target="449">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="614" target="361">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="627" target="473">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="627" target="419">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="627" target="677">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="627" target="349">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="61" target="41">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="61" target="21">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="61" target="161">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="61" target="157">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="61" target="156">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="61" target="158">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="74" target="40">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="56">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="32" target="69">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="265" target="141">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="7">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="314" target="219">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="628" target="551">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="39" target="72">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="631" target="354">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="631" target="682">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="631" target="423">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="631" target="477">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="69" target="196">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="69" target="198">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="69" target="200">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="69" target="199">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="69" target="197">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="69" target="178">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="69" target="191">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="275" target="178">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="163" target="270">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="22" target="62">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="83">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="79">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="78">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="71" target="34">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="250" target="354">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="250" target="108">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="250" target="349">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="60">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="270" target="326">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="270" target="418">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="289" target="473">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="289" target="187">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="289" target="477">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="290" target="480">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="290" target="484">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="290" target="188">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="692" target="684">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="692" target="677">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="77" target="220">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="77" target="200">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="77" target="232">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="77" target="223">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="77" target="189">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="77" target="233">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="264" target="140">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="68">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="632" target="480">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="632" target="356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="632" target="419">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="632" target="684">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="268" target="325">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="268" target="418">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="41">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="43">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="32">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="39">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="42">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="34">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="40">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="302" target="200">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="119">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="141">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="137">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="140">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="105">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="139">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="64">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="24">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="1">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="14" target="50">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="636" target="484">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="636" target="361">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="636" target="423">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="636" target="689">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="276" target="449">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="276" target="445">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="261" target="137">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="58" target="19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="155">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="154">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="108">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="676">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="139">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="122">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="64" target="155">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="64" target="162">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="64" target="141">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="64" target="124">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="64" target="110">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="95">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="91">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="53" target="15">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="259" target="123">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="690" target="683">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="690" target="676">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="0" target="5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="234" target="325">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="234" target="326">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="62" target="123">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="62" target="109">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="62" target="154">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="62" target="162">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="62" target="683">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="62" target="140">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="313" target="218">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="313" target="551">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="317" target="222">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="606" target="356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="606" target="445">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="606" target="349">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="239" target="89">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="239" target="83">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="239" target="116">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="239" target="95">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="239" target="161">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="239" target="168">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="42" target="76">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="72" target="205">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="72" target="220">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="72" target="196">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="72" target="219">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="72" target="218">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="72" target="217">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="72" target="185">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="156" target="268">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="309" target="207">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="57" target="18">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="298" target="196">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="66" target="163">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="66" target="156">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="66" target="78">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="269" target="162">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="269" target="233">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="267" target="155">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="267" target="232">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="299" target="197">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="263" target="139">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="255" target="119">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="34" target="70">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="260" target="124">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="251" target="109">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="251" target="356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="251" target="361">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="602" target="325">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="602" target="682">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="602" target="676">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="602" target="677">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="315" target="220">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="59" target="39">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="59" target="150">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="40" target="73">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="78" target="234">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="70" target="207">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="70" target="205">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="70" target="180">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="70" target="191">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="70" target="208">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="603" target="683">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="603" target="684">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="603" target="326">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="603" target="689">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="258" target="122">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="52">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="307" target="205">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="288" target="186">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="293" target="191">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="623" target="551">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="318" target="223">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="300" target="198">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="245" target="105">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="246" target="106">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="291" target="189">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="287" target="185">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="278" target="180">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="266" target="154">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="266" target="419">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="266" target="423">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="266" target="418">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="266" target="231">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="701" target="682">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="701" target="689">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
